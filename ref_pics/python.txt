@@ -1,0 +1,10 @@
+<a href="https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/shapes-and-symbols" title="shapes and symbols icons">Shapes and symbols icons created by shohanur.rahman13 - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/java" title="java icons">Java icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/javascript" title="javascript icons">Javascript icons created by Eucalyp - Flaticon</a>
+
+/-------------------------------------------------------
+<a href="https://www.flaticon.com/free-icons/covid" title="covid icons">Covid icons created by Flat Icons - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/merge" title="merge icons">Merge icons created by orvipixel - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/portfolio" title="portfolio icons">Portfolio icons created by Flat Icons - Flaticon</a>
+
